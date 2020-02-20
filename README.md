@@ -26,7 +26,6 @@ One of the simpler (but more processor-intensive) ways of sorting a group of ite
 👤 **Michael Zhu**
 
 - Github: [@zhuchini](https://github.com/zhuchini)
-- Twitter: [@zhuchini](https://twitter.com/)
 - Linkedin: [Michael Zhu](https://www.linkedin.com/in/zhumike/)
 
 ## 🤝 Contributing
