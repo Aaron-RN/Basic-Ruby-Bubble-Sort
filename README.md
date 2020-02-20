@@ -11,12 +11,34 @@ One of the simpler (but more processor-intensive) ways of sorting a group of ite
 ## Part 2. 
 - Now create a similar method called #bubble_sort_by which sorts an array by accepting a block. Remember to use yield inside your method definition to accomplish this. The block will have two arguments that represent the two elements of the array that are currently being compared. The block’s return will be similar to the spaceship operator you learned about before: If the result of the block execution is negative, the element on the left is “smaller” than the element on the right. 0 means both elements are equal. A positive result means the left element is greater. Use the block’s return value to sort your array.
 
-## Authors: 
-### Aaron
-Aaron's Github Profile: https://github.com/Aaron-RN
-### Michael
-Michael's Github Profile: https://github.com/zhuchini
+## Built With
 
+- Ruby
 
-## Github Link
-Github Link: https://github.com/Aaron-RN/Basic-Ruby-Bubble-Sort
+## Authors
+
+👤 **Aaron Rory**
+
+- Github: [@Aaron-RN](https://github.com/Aaron-RN)
+- Twitter: [@ARNewbold](https://twitter.com/ARNewbold)
+- Linkedin: [Aaron Newbold](https://www.linkedin.com/in/aaron-newbold-1b9233187/)
+
+👤 **Michael Zhu**
+
+- Github: [@zhuchini](https://github.com/zhuchini)
+- Twitter: [@zhuchini](https://twitter.com/)
+- Linkedin: [Michael Zhu](https://www.linkedin.com/in/zhumike/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
